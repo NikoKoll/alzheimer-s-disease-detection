@@ -1,0 +1,40 @@
+body, html {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background: url('C:\Users\user\aimri\aimri\templates\wp2595590-medical-wallpaper.jpg') no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Arial', sans-serif;
+    align-content: center;
+}
+
+.container {
+    background: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    margin-top: 50px;
+}
+
+.header {
+    color: #205493;
+    border-bottom: 2px solid #dee2e6;
+    padding-bottom: 10px;
+}
+
+.result-text {
+    font-size: 1.2em;
+    color: #333;
+    margin-top: 20px;
+}
+
+.upload-form .form-control-file {
+    border: 2px solid #dee2e6;
+    padding: 5px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
