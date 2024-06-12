@@ -57,7 +57,7 @@ Activate the virtual environment.
 source venv/bin/activate
 ```
 
-Step 3: Installing Dependencies
+### Step 3: Installing Dependencies
 
 Ensure that you're in the virtual environment.
 
